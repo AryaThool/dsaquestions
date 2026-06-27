@@ -5,10 +5,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryaThool/dsaquestions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AryaThool/dsaquestions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AryaThool/dsaquestions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AryaThool/dsaquestions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AryaThool/dsaquestions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -30,4 +32,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryaThool/dsaquestions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AryaThool/dsaquestions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 <!---LeetCode Topics End-->
