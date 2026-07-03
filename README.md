@@ -10,6 +10,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AryaThool/dsaquestions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AryaThool/dsaquestions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AryaThool/dsaquestions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AryaThool/dsaquestions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AryaThool/dsaquestions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -89,4 +90,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AryaThool/dsaquestions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AryaThool/dsaquestions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 <!---LeetCode Topics End-->
