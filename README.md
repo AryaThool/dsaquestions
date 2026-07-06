@@ -58,6 +58,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/AryaThool/dsaquestions/tree/main/0020-valid-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AryaThool/dsaquestions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AryaThool/dsaquestions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/AryaThool/dsaquestions/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -125,4 +126,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AryaThool/dsaquestions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/AryaThool/dsaquestions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
