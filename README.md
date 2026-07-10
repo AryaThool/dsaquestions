@@ -66,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AryaThool/dsaquestions/tree/main/0020-valid-parentheses/) | Easy |
+| [0058-length-of-last-word](https://github.com/AryaThool/dsaquestions/tree/main/0058-length-of-last-word/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AryaThool/dsaquestions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AryaThool/dsaquestions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/AryaThool/dsaquestions/tree/main/3093-longest-common-suffix-queries/) | Hard |
