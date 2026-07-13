@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryaThool/dsaquestions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/AryaThool/dsaquestions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/AryaThool/dsaquestions/tree/main/0088-merge-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AryaThool/dsaquestions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/AryaThool/dsaquestions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -49,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryaThool/dsaquestions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/AryaThool/dsaquestions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/AryaThool/dsaquestions/tree/main/0088-merge-sorted-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AryaThool/dsaquestions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Enumeration
