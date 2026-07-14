@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryaThool/dsaquestions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/AryaThool/dsaquestions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/AryaThool/dsaquestions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/AryaThool/dsaquestions/tree/main/0169-majority-element/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AryaThool/dsaquestions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/AryaThool/dsaquestions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/AryaThool/dsaquestions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -25,6 +26,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/AryaThool/dsaquestions/tree/main/0169-majority-element/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/AryaThool/dsaquestions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AryaThool/dsaquestions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AryaThool/dsaquestions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -33,6 +35,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/AryaThool/dsaquestions/tree/main/0169-majority-element/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AryaThool/dsaquestions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -68,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/AryaThool/dsaquestions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/AryaThool/dsaquestions/tree/main/0169-majority-element/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AryaThool/dsaquestions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/AryaThool/dsaquestions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AryaThool/dsaquestions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -171,4 +175,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AryaThool/dsaquestions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/AryaThool/dsaquestions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
