@@ -71,6 +71,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AryaThool/dsaquestions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AryaThool/dsaquestions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AryaThool/dsaquestions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
@@ -88,6 +89,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AryaThool/dsaquestions/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/AryaThool/dsaquestions/tree/main/0058-length-of-last-word/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AryaThool/dsaquestions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AryaThool/dsaquestions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AryaThool/dsaquestions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/AryaThool/dsaquestions/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -179,6 +181,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AryaThool/dsaquestions/tree/main/0020-valid-parentheses/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AryaThool/dsaquestions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,4 +207,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/AryaThool/dsaquestions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AryaThool/dsaquestions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
