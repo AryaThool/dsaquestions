@@ -9,6 +9,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AryaThool/dsaquestions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AryaThool/dsaquestions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/AryaThool/dsaquestions/tree/main/0169-majority-element/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/AryaThool/dsaquestions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1260-shift-2d-grid](https://github.com/AryaThool/dsaquestions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AryaThool/dsaquestions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/AryaThool/dsaquestions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -88,6 +89,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/AryaThool/dsaquestions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/AryaThool/dsaquestions/tree/main/0169-majority-element/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/AryaThool/dsaquestions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AryaThool/dsaquestions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/AryaThool/dsaquestions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AryaThool/dsaquestions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -163,6 +165,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/AryaThool/dsaquestions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryaThool/dsaquestions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AryaThool/dsaquestions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/AryaThool/dsaquestions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
