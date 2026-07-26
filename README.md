@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/AryaThool/dsaquestions/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AryaThool/dsaquestions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AryaThool/dsaquestions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/AryaThool/dsaquestions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/AryaThool/dsaquestions/tree/main/0169-majority-element/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/AryaThool/dsaquestions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1260-shift-2d-grid](https://github.com/AryaThool/dsaquestions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -205,6 +206,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/AryaThool/dsaquestions/tree/main/0136-single-number/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AryaThool/dsaquestions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AryaThool/dsaquestions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AryaThool/dsaquestions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
