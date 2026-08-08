@@ -77,6 +77,7 @@
 | [0027-remove-element](https://github.com/AryaThool/dsaquestions/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AryaThool/dsaquestions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AryaThool/dsaquestions/tree/main/0088-merge-sorted-array/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AryaThool/dsaquestions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AryaThool/dsaquestions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AryaThool/dsaquestions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Enumeration
@@ -94,6 +95,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AryaThool/dsaquestions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AryaThool/dsaquestions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AryaThool/dsaquestions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AryaThool/dsaquestions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AryaThool/dsaquestions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -122,6 +124,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AryaThool/dsaquestions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AryaThool/dsaquestions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/AryaThool/dsaquestions/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AryaThool/dsaquestions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AryaThool/dsaquestions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AryaThool/dsaquestions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AryaThool/dsaquestions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -214,6 +217,7 @@
 | [0486-predict-the-winner](https://github.com/AryaThool/dsaquestions/tree/main/0486-predict-the-winner/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/AryaThool/dsaquestions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/AryaThool/dsaquestions/tree/main/1406-stone-game-iii/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AryaThool/dsaquestions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AryaThool/dsaquestions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AryaThool/dsaquestions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/AryaThool/dsaquestions/tree/main/3620-network-recovery-pathways/) | Hard |
