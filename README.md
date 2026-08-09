@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/AryaThool/dsaquestions/tree/main/0169-majority-element/) | Easy |
 | [0486-predict-the-winner](https://github.com/AryaThool/dsaquestions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AryaThool/dsaquestions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1140-stone-game-ii](https://github.com/AryaThool/dsaquestions/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/AryaThool/dsaquestions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AryaThool/dsaquestions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/AryaThool/dsaquestions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -67,6 +68,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/AryaThool/dsaquestions/tree/main/1140-stone-game-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/AryaThool/dsaquestions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AryaThool/dsaquestions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AryaThool/dsaquestions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -192,6 +194,7 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/AryaThool/dsaquestions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AryaThool/dsaquestions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1140-stone-game-ii](https://github.com/AryaThool/dsaquestions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/AryaThool/dsaquestions/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryaThool/dsaquestions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AryaThool/dsaquestions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -215,6 +218,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/AryaThool/dsaquestions/tree/main/0486-predict-the-winner/) | Medium |
+| [1140-stone-game-ii](https://github.com/AryaThool/dsaquestions/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/AryaThool/dsaquestions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/AryaThool/dsaquestions/tree/main/1406-stone-game-iii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AryaThool/dsaquestions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -284,13 +288,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/AryaThool/dsaquestions/tree/main/0486-predict-the-winner/) | Medium |
+| [1140-stone-game-ii](https://github.com/AryaThool/dsaquestions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/AryaThool/dsaquestions/tree/main/1406-stone-game-iii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/AryaThool/dsaquestions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/AryaThool/dsaquestions/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/AryaThool/dsaquestions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/AryaThool/dsaquestions/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
