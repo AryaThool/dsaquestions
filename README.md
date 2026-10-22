@@ -41,6 +41,7 @@
 | [3731-find-missing-elements](https://github.com/AryaThool/dsaquestions/tree/main/3731-find-missing-elements/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AryaThool/dsaquestions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AryaThool/dsaquestions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/AryaThool/dsaquestions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
