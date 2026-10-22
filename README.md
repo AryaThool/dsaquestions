@@ -23,6 +23,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AryaThool/dsaquestions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryaThool/dsaquestions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/AryaThool/dsaquestions/tree/main/2029-stone-game-ix/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AryaThool/dsaquestions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AryaThool/dsaquestions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AryaThool/dsaquestions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AryaThool/dsaquestions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -92,6 +93,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/AryaThool/dsaquestions/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AryaThool/dsaquestions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AryaThool/dsaquestions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AryaThool/dsaquestions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AryaThool/dsaquestions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
